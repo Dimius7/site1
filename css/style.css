@@ -1,5 +1,5 @@
 body{
-    background: red;
+ background: greenyellow;
     width: 970px;
     margin: 0 auto;
 }
@@ -15,4 +15,5 @@ p{
 
 body div{
     font-size: 24px;
+
 }
